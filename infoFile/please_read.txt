@@ -1,0 +1,2 @@
+#DON'T DELETE 'infoFile'
+Please don't delete the 'infoFile' folder.Delete this folder will make the program not functioning properly.
